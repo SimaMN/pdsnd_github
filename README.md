@@ -1,4 +1,4 @@
-# BikeShare Data Exploration Project
+# US BikeShare Data Exploration Project
 
 ## Overview
 
@@ -110,5 +110,5 @@ The script computes the following statistics:
 
 3. **You should also implement error handlings so your program does not throw any errors due to invalid inputs. For example, if the user enters "Los Angeles" for the city, the error handling should reject the user input and avoid breaking the codes.**
 
-
+4. **To further develop your skills in python, you can practice with HackerRank(opens in a new tab), which challenges you with increasingly difficult problems.**
 
