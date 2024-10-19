@@ -102,16 +102,6 @@ The script computes the following statistics:
    - Counts of each gender (NYC and Chicago only)
    - Earliest, most recent, and most common year of birth (NYC and Chicago only)
 
-## Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Commit your changes (`git commit -m 'Add new feature'`).
-4. Push to the branch (`git push origin feature-branch`).
-5. Open a pull request.
-
 ## Tips to Improve Your Code
 
 1. **Format your numbers related to time using round()(opens in a new tab) function. It does not make much sense to use decimals like 7.55738383 with seconds/minutes. Instead it should be formatted to 7.6 seconds.**
