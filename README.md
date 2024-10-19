@@ -112,5 +112,13 @@ Contributions are welcome! Please follow these steps:
 4. Push to the branch (`git push origin feature-branch`).
 5. Open a pull request.
 
+## Tips to Improve Your Code
+
+1. **Format your numbers related to time using round()(opens in a new tab) function. It does not make much sense to use decimals like 7.55738383 with seconds/minutes. Instead it should be formatted to 7.6 seconds.**
+
+2. **User inputs should be made case insensitive, which means the input should accept the string of "Chicago" and its case variants, such as "chicago", "CHICAGO", or "cHicAgo".**
+
+3. **You should also implement error handlings so your program does not throw any errors due to invalid inputs. For example, if the user enters "Los Angeles" for the city, the error handling should reject the user input and avoid breaking the codes.**
+
 
 
