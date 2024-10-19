@@ -1,4 +1,4 @@
-# Bike Share Data Analysis Project
+# BikeShare Data Exploration Project
 
 ## Overview
 
